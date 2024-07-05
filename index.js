@@ -21,7 +21,7 @@ author: github.com/iierefaaen
 // import require package
 const TelegramBot = require('node-telegram-bot-api');
 // token from bot father
-const TOKEN = "6340529237:AAFNFBGG4xSwYCacdB_InxMI7T1TyWais2U"
+const TOKEN = "Token_here"
 
 const bot = new TelegramBot(TOKEN, {polling: true})
 
